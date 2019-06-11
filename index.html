@@ -329,7 +329,7 @@
       
         var objLoader = new THREE.OBJLoader();
         
-			  objLoader.load("http://127.0.0.1:8887/platform.obj",
+			  objLoader.load("models/platform.obj",
 			  function(object) {
 			    cloud = object.children[0].clone();
 			    scene.add(cloud);
