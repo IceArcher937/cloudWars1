@@ -11,9 +11,9 @@
 	<body>
 		<script src="https://threejs.org/build/three.js"></script>
 		<script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
-		<script src="http://127.0.0.1:8887/OBJLoader.js"></script>
-		<script src="http://127.0.0.1:8887/GamePadControls.js"></script>
-		<script src="http://127.0.0.1:8887/GLTFLoader.js"></script>
+		<script src="OBJLoader.js"></script>
+		<script src="GamePadControls.js"></script>
+		<script src="GLTFLoader.js"></script>
 		
 
 
